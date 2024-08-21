@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/MyLibrary.svg?style=flat)](https://cocoapods.org/pods/MyLibrary)
 [![Platform](https://img.shields.io/cocoapods/p/MyLibrary.svg?style=flat)](https://cocoapods.org/pods/MyLibrary)
 
-## Example
+## Example Test
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
